@@ -15,6 +15,7 @@ L’ensemble des scripts de ce projet sont présentés selon un ordre décousu m
 -	Variables_ponderees.ipynb : Script utilisé pour étudier la Température de l’Air de Surface ou l’Humidité Relative de la zone d’évaporation associée à EDC. Ce script permet aussi de découper une zone en sous-zones et de faire des calculs de pondérations en automatique pour chaque sous-zone.
 -	Anomalies_all_models.ipynb : Script pour sortir les cartes de n’importe quelle variable/modèle/période pour les versions PMIP3 et PMIP4. + Script pour plot l’anomalie moyenne par latitude.
 -	functions.ipynb : Script regroupant toutes les fonctions ayant été créées pour généraliser certains processus du projet.
+-	Variability : Script pour étudier la variance globale de chaque période et pour chaque modèle.
 
 
 NB : Sans accès aux environnements associés aux données de l’IPSL (Institut Pierre Simon Laplace) ces scripts ne peuvent pas être tournés.
